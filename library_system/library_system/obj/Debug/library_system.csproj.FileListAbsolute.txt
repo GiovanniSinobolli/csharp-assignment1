@@ -1,0 +1,7 @@
+C:\Users\sinob\OneDrive\Documentos\programming\c#\assignments\library_system\library_system\bin\Debug\library_system.exe.config
+C:\Users\sinob\OneDrive\Documentos\programming\c#\assignments\library_system\library_system\bin\Debug\library_system.exe
+C:\Users\sinob\OneDrive\Documentos\programming\c#\assignments\library_system\library_system\bin\Debug\library_system.pdb
+C:\Users\sinob\OneDrive\Documentos\programming\c#\assignments\library_system\library_system\obj\Debug\library_system.csproj.AssemblyReference.cache
+C:\Users\sinob\OneDrive\Documentos\programming\c#\assignments\library_system\library_system\obj\Debug\library_system.csproj.CoreCompileInputs.cache
+C:\Users\sinob\OneDrive\Documentos\programming\c#\assignments\library_system\library_system\obj\Debug\library_system.exe
+C:\Users\sinob\OneDrive\Documentos\programming\c#\assignments\library_system\library_system\obj\Debug\library_system.pdb
